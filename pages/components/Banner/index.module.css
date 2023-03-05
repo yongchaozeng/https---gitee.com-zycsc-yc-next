@@ -1,0 +1,15 @@
+.banner {
+  position: relative;
+  width: 100%;
+  height: 996px;
+
+  background: url("../../../public/images/banner1.png") no-repeat;
+}
+.button {
+  position: absolute;
+  bottom: 257px;
+  right: 100px;
+  width: 500px;
+  height: 70px;
+  background-color: red;
+}

@@ -1,0 +1,31 @@
+.we {
+  background: url("../../../public/images/introduce/Rectangle 16.png") no-repeat;
+}
+
+.box {
+  width: 1400px;
+  height: 400px;
+  border-radius: 8px;
+  margin: 160px 0 130px 0;
+  padding: 10px 40px;
+  background: #fff;
+}
+.weImage {
+  /* width: 800px;
+  height: 400px; */
+}
+.text {
+  margin: 16px 0;
+}
+.buttonRight {
+  width: 246px;
+  height: 62px;
+  background: url("../../../public/images/introduce/we5.png") no-repeat;
+}
+.buttonLeft {
+  width: 246px;
+  height: 62px;
+  border: 1px solid red;
+  border-radius: 16px;
+  margin-right: 16px;
+}

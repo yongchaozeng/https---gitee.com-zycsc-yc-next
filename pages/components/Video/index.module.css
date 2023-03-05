@@ -1,0 +1,30 @@
+.we {
+}
+
+.box {
+  width: 1400px;
+  height: 400px;
+  background: #fff;
+  border-radius: 8px;
+  margin: 10%;
+  padding: 10px 40px;
+}
+.weImage {
+  /* width: 800px;
+  height: 400px; */
+}
+.text {
+  margin: 16px 0;
+}
+.buttonRight {
+  width: 246px;
+  height: 62px;
+  background: url("../../../public/images/介绍/we5.png") no-repeat;
+}
+.buttonLeft {
+  width: 246px;
+  height: 62px;
+  border: 1px solid red;
+  border-radius: 16px;
+  margin-right: 16px;
+}

@@ -1,0 +1,19 @@
+.roadMap {
+  text-align: center;
+  padding: 100px 0;
+  background: url("../../../public//images/roadMap/Rectangle 50.png") no-repeat;
+}
+
+.title {
+  width: 58px;
+  height: 58px;
+  margin-right: 16px;
+  background: url("../../../public//images/roadMap/Rectangle 54.png") no-repeat;
+}
+
+.starButton {
+  width: 300px;
+  height: 80px;
+  margin: 70px 0 0 70px;
+  background: url("../../../public//images/roadMap/Rectangle 51.png") no-repeat;
+}
